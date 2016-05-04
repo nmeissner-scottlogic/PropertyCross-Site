@@ -9,6 +9,8 @@ platforms:
 language: JS
 contributors:
   - { name: 'Nils Meissner', username: nmeissner-scottlogic }
+downloads:
+  android: 'https://s3-eu-west-1.amazonaws.com/propertycross/PropertyCross-nativescript.apk'
 phonegap: false
 links:
   - { title: 'Official Website', url: 'http://http://www.telerik.com/nativescript', description: '- The official website is a great place to get a feel for the framework and find great documentation, guides and release notes.' }

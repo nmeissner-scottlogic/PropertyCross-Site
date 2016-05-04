@@ -10,6 +10,8 @@ language: JS
 contributors:
   - { name: 'Alexander Grant', username: AlexanderGrant1 }
   - { name: 'Colin Eberhardt', username: ColinEberhardt }
+downloads:
+  android: 'https://s3-eu-west-1.amazonaws.com/propertycross/PropertyCross-ReactNative.apk'
 phonegap: false
 links:
   - { title: 'Official Website', url: 'https://facebook.github.io/react-native/', description: '- The official website is a great place to get a feel for the framework and find documentation and guides.' }
